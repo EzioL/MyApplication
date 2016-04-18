@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MD_0416/MD_0416.iml" filepath="$PROJECT_DIR$/MD_0416/MD_0416.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_0415/android_0415.iml" filepath="$PROJECT_DIR$/android_0415/android_0415.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_0418/android_0418.iml" filepath="$PROJECT_DIR$/android_0418/android_0418.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_0416/fragment_0416.iml" filepath="$PROJECT_DIR$/fragment_0416/fragment_0416.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task_0415/task_0415.iml" filepath="$PROJECT_DIR$/task_0415/task_0415.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task_0418/task_0418.iml" filepath="$PROJECT_DIR$/task_0418/task_0418.iml" />
+    </modules>
+  </component>
+</project>

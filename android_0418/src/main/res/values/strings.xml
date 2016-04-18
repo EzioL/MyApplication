@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="prompt" >如果能重来</string>
+    <string-array name="idols">
+        
+        <item>李浩田1</item>
+        <item>李浩田2</item>
+        <item>李浩田3</item>
+        <item>李浩田4</item>
+        <item>李浩田5</item>
+
+    </string-array>
+</resources>
